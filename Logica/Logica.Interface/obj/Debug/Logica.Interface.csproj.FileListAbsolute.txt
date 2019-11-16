@@ -1,0 +1,9 @@
+C:\Proyectos\Xperit\SumadeCubos\Logica\Logica.Interface\bin\Debug\Logica.Interface.dll
+C:\Proyectos\Xperit\SumadeCubos\Logica\Logica.Interface\bin\Debug\Logica.Interface.pdb
+C:\Proyectos\Xperit\SumadeCubos\Logica\Logica.Interface\bin\Debug\Transversal.dll
+C:\Proyectos\Xperit\SumadeCubos\Logica\Logica.Interface\bin\Debug\Transversal.pdb
+C:\Proyectos\Xperit\SumadeCubos\Logica\Logica.Interface\obj\Debug\Logica.Interface.csprojAssemblyReference.cache
+C:\Proyectos\Xperit\SumadeCubos\Logica\Logica.Interface\obj\Debug\Logica.Interface.csproj.CoreCompileInputs.cache
+C:\Proyectos\Xperit\SumadeCubos\Logica\Logica.Interface\obj\Debug\Logica.Interface.csproj.CopyComplete
+C:\Proyectos\Xperit\SumadeCubos\Logica\Logica.Interface\obj\Debug\Logica.Interface.dll
+C:\Proyectos\Xperit\SumadeCubos\Logica\Logica.Interface\obj\Debug\Logica.Interface.pdb
