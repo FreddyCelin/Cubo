@@ -1,0 +1,6 @@
+C:\Proyectos\Xperit\SumadeCubos\Transversal\Transversal\bin\Debug\Transversal.dll
+C:\Proyectos\Xperit\SumadeCubos\Transversal\Transversal\bin\Debug\Transversal.pdb
+C:\Proyectos\Xperit\SumadeCubos\Transversal\Transversal\obj\Debug\Transversal.csprojAssemblyReference.cache
+C:\Proyectos\Xperit\SumadeCubos\Transversal\Transversal\obj\Debug\Transversal.csproj.CoreCompileInputs.cache
+C:\Proyectos\Xperit\SumadeCubos\Transversal\Transversal\obj\Debug\Transversal.dll
+C:\Proyectos\Xperit\SumadeCubos\Transversal\Transversal\obj\Debug\Transversal.pdb

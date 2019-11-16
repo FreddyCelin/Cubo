@@ -1,0 +1,14 @@
+C:\Proyectos\Xperit\SumadeCubos\Vista\bin\Debug\Vista.exe.config
+C:\Proyectos\Xperit\SumadeCubos\Vista\bin\Debug\Vista.exe
+C:\Proyectos\Xperit\SumadeCubos\Vista\bin\Debug\Vista.pdb
+C:\Proyectos\Xperit\SumadeCubos\Vista\bin\Debug\Logica.Interface.dll
+C:\Proyectos\Xperit\SumadeCubos\Vista\bin\Debug\Transversal.dll
+C:\Proyectos\Xperit\SumadeCubos\Vista\bin\Debug\Logica.Interface.pdb
+C:\Proyectos\Xperit\SumadeCubos\Vista\bin\Debug\Transversal.pdb
+C:\Proyectos\Xperit\SumadeCubos\Vista\obj\Debug\Interfaz.csprojAssemblyReference.cache
+C:\Proyectos\Xperit\SumadeCubos\Vista\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Proyectos\Xperit\SumadeCubos\Vista\obj\Debug\Interfaz.csproj.CopyComplete
+C:\Proyectos\Xperit\SumadeCubos\Vista\obj\Debug\Vista.exe
+C:\Proyectos\Xperit\SumadeCubos\Vista\obj\Debug\Vista.pdb
+C:\Proyectos\Xperit\SumadeCubos\Vista\bin\Debug\Logica.dll
+C:\Proyectos\Xperit\SumadeCubos\Vista\bin\Debug\Logica.pdb
